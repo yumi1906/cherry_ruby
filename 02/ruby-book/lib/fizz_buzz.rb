@@ -9,11 +9,3 @@ def fizz_buzzz(n)
     n.to_s
   end
 end
-
-puts fizz_buzzz(1)
-puts fizz_buzzz(2)
-puts fizz_buzzz(3)
-puts fizz_buzzz(4)
-puts fizz_buzzz(5)
-puts fizz_buzzz(6)
-puts fizz_buzzz(15)
